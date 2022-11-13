@@ -14,6 +14,8 @@ Durante la elaboración de práctica conocí herramientas como Miro y Figma las 
 CONTRAS:
 Al ser la primera vez en esto tuve dificultades al sintetizar y aterrizar la idea; sin embargo, al final la creatividad fluyo y me siento satisfecha del resultado final :blush:. 
 
+ありがとうございます
+
 ## :page_facing_up: Descripción
 
 El objetivo de la práctica es realizar una maquetación de una página WEB que permita automatizar las demandas de sus clientes a traves de un cuestionario y realizar el pago correspondiente.
@@ -32,7 +34,3 @@ La practica incluye:
 <a href="https://github.com/LeticiaOlivera/Practicas-de-Intro-a-Frontend-Abogabot/blob/main/Wireframe%20UX.pdf"><img src="https://img.shields.io/badge/P1-Wireframe %20UX%20-blue"></a><br>
 
 <a href="https://www.figma.com/proto/fxDpvi9t94p0q6EJki0E7G/ABOGABOT?node-id=14%3A6&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=14%3A6"><img src="https://img.shields.io/badge/P1-UI%20-blue"></a><br>
-
-## Créditos
-| [<img src="https://i.pinimg.com/736x/98/df/e1/98dfe10ecaf60689e87734d1c69695c9.jpg" width=75><br><sub> Elaborado por Leticia Olivera ありがとうございます </sub>](https://github.com/LeticiaOlivera) |
-| :---: |
