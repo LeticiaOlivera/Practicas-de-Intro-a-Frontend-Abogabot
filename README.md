@@ -19,7 +19,8 @@ Al ser la primera vez en esto tuve dificultades al sintetizar y aterrizar la ide
 ## :page_facing_up: Descripción
 
 El objetivo de la práctica es realizar una maquetación de una página WEB que permita automatizar las demandas de sus clientes a traves de un cuestionario y realizar el pago correspondiente.
-Una vez que el cliente concluye su trámite es necesario que se le notifice al administrador de la página que tiene un servicio nuevo con la finalidad de que lleve un control de su productividad.
+
+Una vez que el cliente concluye su solicitud y el pago es correcto es necesario que se le notifice al administrador de la página que tiene un servicio nuevo con la finalidad de que lleve un control de su productividad.
 
 
 ## :open_file_folder: Contenido: 
