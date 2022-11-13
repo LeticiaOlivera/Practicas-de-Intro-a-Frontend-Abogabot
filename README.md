@@ -34,5 +34,5 @@ La practica incluye:
 <a href="https://www.figma.com/proto/fxDpvi9t94p0q6EJki0E7G/ABOGABOT?node-id=14%3A6&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=14%3A6"><img src="https://img.shields.io/badge/P1-UI%20-blue"></a><br>
 
 ## Créditos
-| [<img src="https://i.pinimg.com/736x/98/df/e1/98dfe10ecaf60689e87734d1c69695c9.jpg" width=75><br><sub>Leticia Olivera</sub>](https://github.com/LeticiaOlivera) |
+| [<img src="https://i.pinimg.com/736x/98/df/e1/98dfe10ecaf60689e87734d1c69695c9.jpg" width=75><br><sub> Elaborado por Leticia Olivera ありがとうございます </sub>](https://github.com/LeticiaOlivera) |
 | :---: |
